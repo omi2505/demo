@@ -1,0 +1,19 @@
+{
+	"name": "empdata",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureBlobStorage4",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Binary",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"fileName": "empdata.txt",
+				"folderPath": "empdata",
+				"container": "empdata"
+			}
+		}
+	}
+}
