@@ -5,10 +5,25 @@
 		"factoryName": {
 			"value": "adf-files"
 		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
+		"AzureBlobStorage2_connectionString": {
+			"value": ""
+		},
+		"AzureBlobStorage3_connectionString": {
+			"value": ""
+		},
+		"AzureBlobStorage4_connectionString": {
+			"value": ""
+		},
 		"inputdata_connectionString": {
 			"value": ""
 		},
 		"output_connectionString": {
+			"value": ""
+		},
+		"AzureBlobStorage5_connectionString": {
 			"value": ""
 		}
 	}
